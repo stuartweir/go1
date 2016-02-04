@@ -1,0 +1,34 @@
+{
+ "Users": {
+  "usr_7C1fTz35dC": {
+   "Username": "matt",
+   "Email": "matt@matt.com",
+   "HashedPassword": "$2a$10$MjgilbdoY7dXUTAm74AtqOCZidNnsiipkNY5FzJLT5NCyj.YX/og.",
+   "ID": "usr_7C1fTz35dC"
+  },
+  "usr_J3bS1XHQze": {
+   "Username": "bae",
+   "Email": "bae@bae.com",
+   "HashedPassword": "$2a$10$p/zbzMHpxvMvwp9Hju46YeV7mcHmuedQG2eF7f5AL7YprQAX2yyL6",
+   "ID": "usr_J3bS1XHQze"
+  },
+  "usr_L47PD58YUU": {
+   "Username": "mal",
+   "Email": "mal@mal.co.nz",
+   "HashedPassword": "$2a$10$xRILl5udy0ETY9jfdJQUiuBSoHjAzcsQc121Oz9KFfFbrViYNTtkO",
+   "ID": "usr_L47PD58YUU"
+  },
+  "usr_dsrJ4AaruK": {
+   "Username": "stu",
+   "Email": "hellow@orld.com",
+   "HashedPassword": "$2a$10$si76bLNDvUjC4Dy70HhfUOB0x.tKiwDP1LNNkfJLkAGfsJxSTbkbm",
+   "ID": "usr_dsrJ4AaruK"
+  },
+  "usr_mWwmYt8jMs": {
+   "Username": "helloworld",
+   "Email": "hello@world.com",
+   "HashedPassword": "$2a$10$V1HM5zH.NADVfFYfSJTCcu800H9b3TGQBMAabO8XXHs1CJjJBnqzW",
+   "ID": "usr_mWwmYt8jMs"
+  }
+ }
+}
